@@ -1,10 +1,3 @@
----
-
-# 📑 Table of Contents (English)
-
-**Title (working):** *[see options below]*
-
----
 
 ## Introduction  
 - Why connectivity is a universal challenge  
